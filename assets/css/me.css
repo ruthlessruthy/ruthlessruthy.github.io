@@ -109,10 +109,7 @@ body.page-template-page-fullsingle-me {
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #FFFFFF;
-  background: #000000;
-padding:16px;
-}
+    color: #FFFFFF;}
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
