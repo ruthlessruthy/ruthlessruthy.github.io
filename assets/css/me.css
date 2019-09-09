@@ -103,12 +103,15 @@ body.page-template-page-fullsingle-me {
   letter-spacing: -0.5px;
   color: #999999;
   color: #fff;
-  background-image: url("../../images/hur.jpg");
+  background-image: url("../../images/katzekatze.jpg");
   background-position: center center;
   background-size: cover; }
   body.page-template-page-fullsingle-me p {
     margin-bottom: 28px;
-    color: #fff; }
+    color: #FFFFFF;
+  background: #000000;
+padding:16px;
+}
     @media (max-width: 800px) {
       body.page-template-page-fullsingle-me p {
         font-size: 32px;
@@ -183,7 +186,7 @@ body.page-template-page-fullsingle-me {
       max-width: none; } }
   .bio a {
     color: #CCCCCC;
-    transition: 1s; 
+    transition: 1s;
     text-decoration: underline;
 
   }
